@@ -1,5 +1,2 @@
-{
-  "name": "Cloudflare DNS & Tunnel Manager",
-  "version": "2.2.0",
-  "slug": "cloudflare_dns_tunnel_manager"
-}
+Flask==2.3.3
+requests==2.31.0
