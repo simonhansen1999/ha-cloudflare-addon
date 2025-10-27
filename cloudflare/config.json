@@ -11,6 +11,11 @@
   "panel_icon": "mdi:cloud",
   "panel_title": "Cloudflare DNS & Tunnel",
   "webui": "http://[HOST]:[PORT:8080]/",
+  "image": "ghcr.io/username/cloudflare_dns_tunnel_manager-{arch}",
+  "map": ["config:rw", "addon_config:rw"],
+  "ports": {
+    "8080/tcp": 8080
+  },
   "options": {
     "api_token": "",
     "hostname": "",
