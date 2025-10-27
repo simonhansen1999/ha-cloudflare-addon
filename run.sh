@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+
 mkdir -p /data/cloudflared
 
 # Download cloudflared if not exists

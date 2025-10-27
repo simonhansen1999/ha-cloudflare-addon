@@ -1,6 +1,6 @@
 {
   "name": "Cloudflare DNS & Tunnel Manager",
-  "version": "1.0.0",
+  "version": "2.2.0",
   "slug": "cloudflare_dns_tunnel_manager",
   "description": "Manage Cloudflare DNS and automatically create a Cloudflare Tunnel to Home Assistant",
   "arch": ["amd64","armv7","armhf","aarch64"],
@@ -11,7 +11,6 @@
   "panel_icon": "mdi:cloud",
   "panel_title": "Cloudflare DNS & Tunnel",
   "webui": "http://[HOST]:[PORT:8080]/",
-  "image": "ghcr.io/username/cloudflare_dns_tunnel_manager-{arch}",
   "map": ["config:rw", "addon_config:rw"],
   "ports": {
     "8080/tcp": 8080
