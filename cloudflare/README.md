@@ -4,9 +4,9 @@ Home Assistant Add-on til at opdatere DNS og oprette Cloudflare Tunnel automatis
 
 ## Installation
 
-1. Tilføj GitHub repo i HA Add-on Store:
+1. Tilfoej GitHub repo i HA Add-on Store:
    `https://github.com/<username>/<repo>`
-2. Installer add-on’en “Cloudflare DNS & Tunnel Manager”
+2. Installer add-on “Cloudflare DNS & Tunnel Manager”
 3. Konfigurer options:
 ```json
 {
