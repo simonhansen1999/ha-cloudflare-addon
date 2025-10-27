@@ -1,6 +1,6 @@
 {
   "name": "Cloudflare DNS & Tunnel Manager",
-  "version": "2.2.0",
+  "version": "1.0.0",
   "slug": "cloudflare_dns_tunnel_manager",
   "description": "Manage Cloudflare DNS and automatically create a Cloudflare Tunnel to Home Assistant",
   "arch": ["amd64","armv7","armhf","aarch64"],
